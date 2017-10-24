@@ -1,0 +1,2 @@
+bin\Debug\OfficeAppManifests\AzquoTSManifest.xml
+C:\Users\Bill\Documents\Visual Studio 2015\Projects\AzquoTS\AzquoTS\bin\Debug\AzquoTS.debugapp
